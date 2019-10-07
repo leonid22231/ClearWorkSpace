@@ -1,0 +1,11 @@
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.exe
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.deps.json
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.runtimeconfig.json
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.runtimeconfig.dev.json
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.dll
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\bin\Debug\netcoreapp3.0\ClearWorkSpace.pdb
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\obj\Debug\netcoreapp3.0\ClearWorkSpace.csprojAssemblyReference.cache
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\obj\Debug\netcoreapp3.0\ClearWorkSpace.AssemblyInfoInputs.cache
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\obj\Debug\netcoreapp3.0\ClearWorkSpace.AssemblyInfo.cs
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\obj\Debug\netcoreapp3.0\ClearWorkSpace.dll
+C:\Users\leonid2223\Documents\Project\ClearWorkSpace\obj\Debug\netcoreapp3.0\ClearWorkSpace.pdb
