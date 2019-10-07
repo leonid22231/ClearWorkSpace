@@ -1,2 +1,2 @@
 # ClearWorkSpace
-Yes
+clean workspace
